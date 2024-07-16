@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\clientewebapi\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|solutionrelative:clientewebapi\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\clientewebapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|solutionrelative:clientewebapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|c:\\users\\winuser\\source\\repos\\clientewebapi\\clientewebapi\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|solutionrelative:clientewebapi\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\clientewebapi\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|solutionrelative:clientewebapi\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\clientewebapi\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|solutionrelative:clientewebapi\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\clientewebapi\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{858DE5CB-8E9E-4918-A877-6277292B95C6}|ClienteWebApi\\ClienteWebApi.csproj|solutionrelative:clientewebapi\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClienteWebApi\\Views\\People\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Delete.cshtml",
+              "RelativeToolTip": "ClienteWebApi\\Views\\People\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T18:19:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClienteWebApi\\Views\\People\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Edit.cshtml",
+              "RelativeToolTip": "ClienteWebApi\\Views\\People\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T18:12:24.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClienteWebApi\\Views\\People\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Create.cshtml",
+              "RelativeToolTip": "ClienteWebApi\\Views\\People\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:12:01.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ClienteWebApi\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ClienteWebApi\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:41:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClienteWebApi\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "ClienteWebApi\\Views\\People\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T04:30:12.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "ClienteWebApi\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApi\\ClienteWebApi\\Controllers\\PeopleController.cs*",
+              "RelativeToolTip": "ClienteWebApi\\Controllers\\PeopleController.cs*",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwHkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:27:36.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

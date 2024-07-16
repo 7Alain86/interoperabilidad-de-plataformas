@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141FCA59-4369-46E1-B41A-842078AFA07F}|ClienteWebApp\\ClienteWebApp.csproj|c:\\users\\winuser\\source\\repos\\clientewebapp\\clientewebapp\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FCA59-4369-46E1-B41A-842078AFA07F}|ClienteWebApp\\ClienteWebApp.csproj|solutionrelative:clientewebapp\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FCA59-4369-46E1-B41A-842078AFA07F}|ClienteWebApp\\ClienteWebApp.csproj|c:\\users\\winuser\\source\\repos\\clientewebapp\\clientewebapp\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FCA59-4369-46E1-B41A-842078AFA07F}|ClienteWebApp\\ClienteWebApp.csproj|solutionrelative:clientewebapp\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApp\\ClienteWebApp\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "ClienteWebApp\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApp\\ClienteWebApp\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "ClienteWebApp\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:21:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApp\\ClienteWebApp\\Models\\People.cs",
+              "RelativeDocumentMoniker": "ClienteWebApp\\Models\\People.cs",
+              "ToolTip": "C:\\Users\\WinUser\\source\\repos\\ClienteWebApp\\ClienteWebApp\\Models\\People.cs",
+              "RelativeToolTip": "ClienteWebApp\\Models\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:09:18.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

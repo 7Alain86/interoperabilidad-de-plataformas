@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JDCpXzQf7kLgMRpEQg2cpF0Fj4I7X+esOE6QlDvCi28=",
+  "Source": "WeatherForecastapi",
+  "BasePath": "_content/WeatherForecastapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
